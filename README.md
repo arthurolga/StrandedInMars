@@ -1,7 +1,8 @@
 # Stranded In Mars
 ### 👹 Action FPS made in Unity (WebGL on Itch.io)
 
-Itch.io(WebGL) playable link: https://arthurolga.itch.io/stranded-in-mars
+
+## Itch.io playable link: https://arthurolga.itch.io/stranded-in-mars
 
 
 <img width="600px" src="https://github.com/arthurolga/StrandedInMars/blob/main/CAPTURE1.png" />
